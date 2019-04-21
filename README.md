@@ -4,7 +4,7 @@ that allows users to control their smartcar remotely and share it with other use
 
 Developed @ HackSC 2019<br>
 ## Contributors:
-Suk Chan (Kevin) Lee
-Eric Ke
-Yiming Nathan Zhao
-Davin Jong
+Suk Chan (Kevin) Lee <br>
+Eric Ke<br>
+Yiming Nathan Zhao<br>
+Davin Jong<br>
